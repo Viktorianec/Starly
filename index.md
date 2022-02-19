@@ -1,4 +1,4 @@
-![Image](https://github.com/Viktorianec/cryptofolio/blob/gh-pages/Artboard.jpg)
+![Image](images/Artboard.jpg)
 ## What's cryptofolio?
 
 Cryptofolio is a mobile application for building a portfolio and tracking the dynamics and rates of cryptocurrencies.
