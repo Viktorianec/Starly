@@ -1,3 +1,4 @@
+![Image](https://github.com/Viktorianec/cryptofolio/blob/gh-pages/Artboard.jpg)
 ## What's cryptofolio?
 
 Cryptofolio is a mobile application for building a portfolio and tracking the dynamics and rates of cryptocurrencies.
@@ -23,8 +24,8 @@ Compare cryptocurrencies based on their price over 24 hours and in real time.
 **Uniqueness**
 Create any portfolio you like. Track trends and rates all at once in one place.
 
-[Download](https://appstoreconnect.apple.com/apps/1610389403) and ![Image](http://viktorianec.github.ios/artboard.jpg)
-```
-## Support or Contact
+[Download](https://appstoreconnect.apple.com/apps/1610389403)
 
-Having trouble? Please, ask us by mail [contact support](https://viktorianecc@gmail.com) and we’ll help you sort it out.
+**Support or Contact**
+
+Having trouble? Please, ask us by [mail](mailto:viktorianecc@gmail.com) and we’ll help you.
