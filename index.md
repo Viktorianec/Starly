@@ -25,13 +25,6 @@ Create any portfolio you like. Track trends and rates all at once in one place.
 
 [Download](https://appstoreconnect.apple.com/apps/1610389403) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Viktorianec/cryptofolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble? Please, ask us by mail [contact support](https://viktorianecc@gmail.com) and we’ll help you sort it out.
